@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: ubermesch
+Build-Jdk: 11.0.14.1
+Implementation-Title: mascate
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.vpavezi
+Implementation-URL: https://spring.io/projects/spring-boot/mascate
+Created-By: Maven Integration for Eclipse
+
